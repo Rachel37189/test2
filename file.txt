@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is txt file
+=======
+This is txt file.
+This is PR1 change...
+>>>>>>> 37e34171988301870b5a5a18b0343e81ae8d046a
